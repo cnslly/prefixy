@@ -9,9 +9,9 @@
   "author": "cansully",
   "license": "MIT",
   "devDependencies": {
-    "typescript": "v5.5.4"
+    "typescript": "v5.9.3"
   },
   "dependencies": {
-    "discord.js": "^14.15.3"
+    "discord.js": "^14.22.1"
   }
 }
